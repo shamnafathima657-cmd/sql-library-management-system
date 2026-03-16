@@ -44,5 +44,5 @@ Some example queries included in this project:
 ## Tools Used
 * MySQL
 
-Conclusion
+## Conclusion
 This project demonstrates the design and implementation of a Library Management System using SQL. It highlights the use of relational database concepts such as table relationships, joins, grouping, and data filtering to efficiently manage and analyze library data.
